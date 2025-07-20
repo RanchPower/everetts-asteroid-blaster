@@ -1,7 +1,7 @@
 {
   "name": "Everett's Asteroid Blaster",
   "short_name": "Asteroid Blaster",
-  "start_url": "/everetts-asteroid-blaster/",
+  "start_url": "/everetts-asteroid-blaster/index.html",
   "scope": "/everetts-asteroid-blaster/",
   "display": "standalone",
   "background_color": "#111111",
