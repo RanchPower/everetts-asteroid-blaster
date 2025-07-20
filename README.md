@@ -1,2 +1,1 @@
-# everetts-asteroid-blaster
-Asteroid Blaster
+# Everett's Asteroid Blaster
