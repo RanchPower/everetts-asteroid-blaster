@@ -2,7 +2,7 @@
 {
   "name": "Everett's Asteroid Blaster",
   "short_name": "Asteroid Blaster",
-  "start_url": "/everetts-asteroid-blaster/Everett's%20Asteroid%20Game.html",
+  "start_url": "/everetts-asteroid-blaster/",
   "display": "standalone",
   "background_color": "#111111",
   "theme_color": "#111111",
